@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.content-container{
+    width: 100vw;
+    min-height: 20vh;
+    background: lightcoral;
+    display: flex;
+    /* justify-content: ; */
+    flex-wrap: wrap;
+}
